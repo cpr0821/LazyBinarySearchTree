@@ -16,9 +16,13 @@ Project 3: LazyBinarySearchTree
 NetBeans IDE 8.2
 
 Sample input:
+
 Insert:45
+
 Delete:45
+
 Insert:6
+
 Insert:200
 Delete:22
 Height
